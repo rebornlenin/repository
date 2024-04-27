@@ -1,5 +1,8 @@
+<img src="rc_images/lenin_head_bw_1.png" width="338" height="376"  alt="" title="" />
 **REBORN LENINISM** <br> <br>
-We are the members of the "REBORN LENINISM", unite in the conviction that science and technology are the key to solving global problems and improving the lives of all people. <br>
-We set ourselves the task of resurrecting Vladimir Ilyich Ulyanov (Lenin) and define his role as a leading one in the construction of a truly Leninist creative society. <br>
-We seek to create a society where everyone can live in conditions that ensure their well-being, equality and sustainable development, in a society that will inevitably lead to the advent of communism.<br>
-The ultimate goal of our public association is to ensure the well-being of all citizens. We pay special attention to social justice, equality and sustainable development, understanding that only with equal access to resources and opportunities can everyone reach their potential.
+We, the members of “Reborn Leninism,” are united by the belief that science and technology are foundational in addressing global challenges and enhancing the quality of life for all humanity.<br>
+
+Our mission is to revive the legacy of Vladimir Ilyich Ulyanov (Lenin), positioning his ideology at the forefront of our quest to build a society rooted in Leninist principles. This society will be characterized by the well-being, equality, and sustainable development of its citizens, paving the way for the eventual realization of communism.<br>
+
+At the core of our organization’s objectives is the commitment to the prosperity of all individuals. We emphasize the importance of social justice, equality, and sustainable growth, recognizing that equitable access to resources and opportunities is essential for people to fulfill their potential.<br>
+

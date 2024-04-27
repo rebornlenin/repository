@@ -1,4 +1,4 @@
-<img src="rc_images/lenin_head_bw_1.png"/>
+<img src="rc_images/SunLenArise.png"/>
 <h1>REBORN LENINISM</h1>
 We, the members of “Reborn Leninism,” are united by the belief that science and technology are foundational in addressing global challenges and enhancing the quality of life for all humanity.<br>
 

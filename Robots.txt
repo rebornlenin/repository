@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /rc_images/
+Host: vladlenin.ru
+Sitemap: http://vladlenin.ru/sitemap.xml
